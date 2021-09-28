@@ -1,16 +1,50 @@
-### Hi there 👋
-# *gig*amaster
 [![Project Status: WIP – User Interface in progress.](https://www.repostatus.org/badges/latest/wip.svg)](https://github.com/gigamaster/infinevo/) [![Project Status: Active – The project is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://github.com/gigamaster/infinevo/) [![License](https://poser.pugx.org/phpunit/phpunit/license)](https://github.com/xoopscube/xcl/blob/master/BSD_license.txt)  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gigamaster&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Education.org](https://img.shields.io/badge/free-education-green?style=for-the-badge&logo=apache)](https://github.com/gigamaster/) 
 
 ## /////////////////////////// — Nuno Luciano [ @gigamaster ]
 
->Earth is my homeland, humanity is my family!   
-— Front end developer, UIX designer, project manager, adult educator with over 20 years of Open Source experience
+Earth is my homeland, humanity is my family!   
 
-Evolution of Technology — Past, Present, and Future — Graphical User Interface
+
+
+---
+
+I'm an adult educator and multimedia producer who sees life pretty simply - we try to keep ourselves busy by doing things, some fail, some work, and almost everything we do has an impact on our environment, people and things. 
+Besides the things that give meaning to life, I'm involved in developing tools that facilitate the expression of one's creativity, through art, design, music, learning, cooperation, etc... usually in a very informal way and without a pre-agreed agenda. Serendipity is an unplanned fortunate discovery, a common occurrence throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you found is more suited to your needs than what you thought you were looking for".  
+
+
+```
+➜  Nuno Luciano :: gigamaster
+    Adult educator Front end developer, UIX designer, Project manager
+    with over 20 years of Open Source experience
+    
+    -----------------------------  
+    \\\\\ 🛠 Gigamaster 📐 /////
+     ---------------------------  
+  
+🈚  Open Source Software Development  
+📦  https://github.com/gigamaster
+📸  https://facebook.com/nunoluciano
+🔔  https://twitter/nunoluciano
+
+```    
+
+--- 
+
+### Evolution of Technology — Past, Present, and Future
+
+Philosophical
+
+> Learn everything you can.  
+  Try everything that comes along.  
+  Look at everything there is to see.  
+  Search, experiment, make mistakes, fail, stand up.  
+  Turn religious, turn conservative, turn radical.  
+  And then forget all about it and find your way to create."
+
+
 
 ## /////////////////////////// — Tech Stack  
 
@@ -19,7 +53,7 @@ Set of technologies used to build a desktop, mobile and web application.
 
 Just like cooking, and  daily life flexibility, in general, the flexibility of programming languages refers to the unexpectedly many ways in which utterings in the language can be used. The flexibility in the design of a program, and technology, is offered through source code — modifying a program's source code adapts the program's design.
 
-[![Education.org](https://img.shields.io/badge/free-education-green?style=for-the-badge&logo=apache)](https://github.com/gigamaster/infinevo/)    
+   
 
 
 
@@ -102,14 +136,4 @@ Just like cooking, and  daily life flexibility, in general, the flexibility of p
 - GPL
 - MIT
 
-Here are some ideas to get started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
