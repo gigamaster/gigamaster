@@ -1,5 +1,3 @@
-[![Project Status: WIP – User Interface in progress.](https://www.repostatus.org/badges/latest/wip.svg)](https://github.com/gigamaster/infinevo/) [![Project Status: Active – The project is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://github.com/gigamaster/infinevo/) [![License](https://poser.pugx.org/phpunit/phpunit/license)](https://github.com/xoopscube/xcl/blob/master/BSD_license.txt)  
-
 
 [![Education.org](https://img.shields.io/badge/free-education-green?style=for-the-badge&logo=apache)](https://github.com/gigamaster/) 
 
@@ -17,8 +15,9 @@ Besides the things that give meaning to life, I'm involved in developing tools t
 
 ```
 ➜  Nuno Luciano :: gigamaster
-    Adult educator Front end developer, UIX designer, Project manager
-    with over 20 years of Open Source experience
+➜  Adult educator, Front end developer 
+➜  UIX designer, Project manager
+➜  20 years of Open Source experience
     
     -----------------------------  
     \\\\\ 🛠 Gigamaster 📐 /////
