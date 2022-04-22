@@ -1,5 +1,5 @@
 
-[![Education.org](https://img.shields.io/badge/free-education-green?style=for-the-badge&logo=apache)](https://github.com/gigamaster/) ![](https://komarev.com/ghpvc/?gigamaster&style=flat-square&label=Profile&color=blue)
+[![Education.org](https://img.shields.io/badge/free-education-green?style=for-the-badge&logo=apache)](https://github.com/gigamaster/) ![](https://komarev.com/ghpvc/?gigamaster&style=flat-square&label=Profile&color=blue) <img src="https://komarev.com/ghpvc/?gigamaster&style=flat-square&color=blue" alt=""/>
 
 ## /////////////////////////// — Nuno Luciano [ @gigamaster ]
 
