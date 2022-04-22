@@ -3,9 +3,13 @@
 
 ## /////////////////////////// — Nuno Luciano [ @gigamaster ]
 
-Earth is my homeland, humanity is my family!   
 
 
+    -----------------------------  
+    \\\\\ 🛠 Gigamaster 📐 /////
+     ---------------------------  
+
+**Earth is my homeland, humanity is my family!**   
 
 ---
 
@@ -18,15 +22,6 @@ Besides the things that give meaning to life, I'm involved in developing tools t
 ➜  Adult educator, Front end developer 
 ➜  UIX designer, Project manager
 ➜  20 years of Open Source experience
-    
-    -----------------------------  
-    \\\\\ 🛠 Gigamaster 📐 /////
-     ---------------------------  
-  
-🈚  Open Source Software Development  
-📦  https://github.com/gigamaster
-📸  https://facebook.com/nunoluciano
-🔔  https://twitter/nunoluciano
 
 ```    
 
