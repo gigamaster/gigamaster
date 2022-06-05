@@ -3,7 +3,7 @@
 
 ## /////////////////////////// — Nuno Luciano [ @gigamaster ]
 
-
+<img src=<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"><path d="M12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3Z" stroke-dasharray="60" stroke-dashoffset="60"><animate attributeName="stroke-dashoffset" values="60;0" dur="0.5s" fill="freeze"/></path><path d="M12 7V13" stroke-dasharray="8" stroke-dashoffset="8"><animate attributeName="stroke-dashoffset" values="8;0" begin="0.6s" dur="0.2s" fill="freeze"/></path></g><circle cx="12" cy="17" r="1" fill="currentColor" fill-opacity="0"><animate attributeName="fill-opacity" values="0;1" begin="0.8s" dur="0.4s" fill="freeze"/></circle></svg>
 
     -----------------------------  
     \\\\\ 🛠 Gigamaster 📐 /////
@@ -46,6 +46,8 @@ Set of technologies used to build a desktop, mobile and web application.
 **The magic of creative spark** is a mixed spicy combination of imagination and the flexibility of programming languages, frameworks, libraries, patterns, servers, UI/UX solutions, software, and tools.
 
 Just like cooking, and  daily life flexibility, in general, the flexibility of programming languages refers to the unexpectedly many ways in which utterings in the language can be used. The flexibility in the design of a program, and technology, is offered through source code — modifying a program's source code adapts the program's design.
+
+<img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
 
    
 
