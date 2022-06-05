@@ -3,7 +3,7 @@
 
 ## /////////////////////////// — Nuno Luciano [ @gigamaster ]
 
-![file](https://user-images.githubusercontent.com/1905497/172074228-97cea829-f6d1-4f0f-aaa5-40ac32279a61.svg)
+<p style="color:#face74"><img src="https://user-images.githubusercontent.com/1905497/172074228-97cea829-f6d1-4f0f-aaa5-40ac32279a61.svg" width="24px" height="24px"></p>
 
 
 
