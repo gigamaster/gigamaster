@@ -1578,7 +1578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jgraph/drawio</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source to app.diagrams.net</div>
@@ -1631,7 +1631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stream-labs/obs-studio-node</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">libOBS (OBS Studio) for Node.Js, Electron and similar tools</div>
@@ -1684,7 +1684,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitpod-io/openvscode-server</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.</div>
@@ -1737,7 +1737,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gbraad/replit-c64</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a functional Commodore 64 development environment with demonstration C and ASM programs</div>
@@ -2755,7 +2755,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jul 2022, 07:19:32 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 08:12:08 (timezone Europe/Paris) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
