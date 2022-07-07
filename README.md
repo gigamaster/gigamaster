@@ -1,15 +1,12 @@
-![Metrics](/github-metrics.svg)
 
 [![Education.org](https://img.shields.io/badge/free-education-green?style=for-the-badge&logo=apache)](https://github.com/gigamaster/) ![](https://komarev.com/ghpvc/?gigamaster&style=flat-square&label=Profile&color=blue) <img src="https://komarev.com/ghpvc/?gigamaster&style=flat-square&color=blue" alt=""/>
 
 ## /////////////////////////// — Nuno Luciano [ @gigamaster ]
 
-<p style="color:#face74"><img src="https://user-images.githubusercontent.com/1905497/172074228-97cea829-f6d1-4f0f-aaa5-40ac32279a61.svg" width="24px" height="24px"></p>
-
 
 
     -----------------------------  
-    \\\\\ 🛠 Gigamaster 📐 /////
+    \\\\\  📐 Gigamaster 🛠 /////
      ---------------------------  
 
 **Earth is my homeland, humanity is my family!**   
@@ -18,6 +15,13 @@
 
 I'm an adult educator and multimedia producer who sees life pretty simply - we try to keep ourselves busy by doing things, some fail, some work, and almost everything we do has an impact on our environment, people and things. 
 Besides the things that give meaning to life, I'm involved in developing tools that facilitate the expression of one's creativity, through art, design, music, learning, cooperation, etc... usually in a very informal way and without a pre-agreed agenda. Serendipity is an unplanned fortunate discovery, a common occurrence throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you found is more suited to your needs than what you thought you were looking for".  
+
+![Metrics](/github-metrics.svg)
+
+
+
+## /////// — Evolution of Technology — Past, Present, and Future
+
 
 
 ```
@@ -28,9 +32,6 @@ Besides the things that give meaning to life, I'm involved in developing tools t
 
 ```    
 
---- 
-
-### Evolution of Technology — Past, Present, and Future
 
 Philosophical
 
@@ -43,7 +44,7 @@ Philosophical
 
 
 
-## /////////////////////////// — Tech Stack  
+### Tech Stack  
 
 Set of technologies used to build a desktop, mobile and web application.  
 **The magic of creative spark** is a mixed spicy combination of imagination and the flexibility of programming languages, frameworks, libraries, patterns, servers, UI/UX solutions, software, and tools.
