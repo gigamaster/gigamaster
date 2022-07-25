@@ -1557,7 +1557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>premail-co/editor</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pretty, responsive email editor.</div>
@@ -1610,7 +1610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jvilk/BrowserFS</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.</div>
@@ -1663,7 +1663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pear/Net_SmartIRC</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1717,7 +1717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boardgameio/boardgame.io</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">State Management and Multiplayer Networking for Turn-Based Games</div>
@@ -2737,7 +2737,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2022, 13:09:38 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 14:20:11 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
