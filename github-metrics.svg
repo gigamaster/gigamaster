@@ -1663,7 +1663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jvilk/BrowserFS</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.</div>
@@ -1716,7 +1716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pear/Net_SmartIRC</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2737,7 +2737,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2022, 19:18:24 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 20:12:07 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
