@@ -1557,7 +1557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>premail-co/editor</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pretty, responsive email editor.</div>
@@ -1610,7 +1610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jvilk/BrowserFS</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.</div>
@@ -1644,7 +1644,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        253
+                                        254
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1663,7 +1663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pear/Net_SmartIRC</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1717,7 +1717,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>boardgameio/boardgame.io</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">State Management and Multiplayer Networking for Turn-Based Games</div>
@@ -2737,7 +2737,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2022, 14:20:11 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 15:34:24 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
