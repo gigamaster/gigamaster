@@ -1615,7 +1615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>premail-co/editor</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pretty, responsive email editor.</div>
@@ -1668,7 +1668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jvilk/BrowserFS</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.</div>
@@ -2742,7 +2742,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2022, 00:09:36 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 01:09:48 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
