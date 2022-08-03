@@ -1562,7 +1562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anbraten/gitea-js</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Typescript library to access Gitea API</div>
@@ -1615,7 +1615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>avency/Gitea</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">API client for Gitea API Version 1</div>
@@ -1668,7 +1668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sashaoli/GiteaPanel</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manage the local Gitea server from the tray. Управління локальним сервером Gitea з трею.</div>
@@ -1721,7 +1721,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>git-touch/git-touch</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter</div>
@@ -2743,7 +2743,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2022, 13:09:30 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 14:18:52 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
