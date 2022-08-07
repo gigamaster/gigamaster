@@ -1545,7 +1545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shaack/cm-chessboard</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JavaScript chessboard without dependencies. Rendered in SVG, coded in ES6. Views FEN, handles move input, animated, responsive, mobile friendly.</div>
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oakmac/chessboardjs</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript chessboard</div>
@@ -1651,7 +1651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LabinatorSolutions/stockfish-chess-web-gui</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Responsive chess web GUI to play against the Stockfish 10 chess engine. Multiple web GUI implementations have also been included.</div>
@@ -1704,7 +1704,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>singpolyma/openpgp-php</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenPGP.php is a pure-PHP implementation of the OpenPGP Message Format (RFC 4880).</div>
@@ -2726,7 +2726,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 21:08:07 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 22:11:04 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
