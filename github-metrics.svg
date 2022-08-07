@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jsreport/jsreport</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1654,7 +1654,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BorisMoore/jsrender</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.</div>
@@ -1707,7 +1707,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BorisMoore/jsviews</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Interactive data-driven views, MVVM and MVP, built on top of JsRender templates</div>
@@ -2729,7 +2729,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 18:11:48 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 19:10:44 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
