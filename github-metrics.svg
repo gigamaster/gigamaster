@@ -1545,7 +1545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>djibe/recommandations-medicales</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Espace collaboratif de partage de fiches de recommandations médicales pour la consultation</div>
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>djibe/material</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material Design 2 for Bootstrap 4 (active fork of Daemonite Material)</div>
@@ -2248,7 +2248,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5941136208076863 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6789869952087528 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2728,7 +2728,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Aug 2022, 11:09:18 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 12:10:11 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
