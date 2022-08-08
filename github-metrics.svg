@@ -1552,7 +1552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ssmak/lamp</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A LAMP stack development environment runs on a single container.</div>
@@ -1605,7 +1605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>shaack/cm-chessboard</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A JavaScript chessboard without dependencies. Rendered in SVG, coded in ES6. Views FEN, handles move input, animated, responsive, mobile friendly.</div>
@@ -1658,7 +1658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oakmac/chessboardjs</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript chessboard</div>
@@ -1711,7 +1711,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LabinatorSolutions/stockfish-chess-web-gui</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Responsive chess web GUI to play against the Stockfish 10 chess engine. Multiple web GUI implementations have also been included.</div>
@@ -2735,7 +2735,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2022, 17:10:56 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 8 Aug 2022, 18:13:18 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
