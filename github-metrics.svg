@@ -1573,7 +1573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>panva/jose</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.</div>
@@ -1626,7 +1626,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jnicol/particleground</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A jQuery plugin for snazzy background particle systems</div>
@@ -1679,7 +1679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WebPageTest/webpagetest-api</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebPageTest API wrapper for NodeJS</div>
@@ -1732,7 +1732,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akamai/boomerang</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">End user oriented web performance testing and beaconing</div>
@@ -2754,7 +2754,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Aug 2022, 19:13:57 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 20:12:06 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
