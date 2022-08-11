@@ -1573,7 +1573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jisuanke/CodeMirror-Record</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A project for recording and playing coding activities in @CodeMirror editor.</div>
@@ -1620,7 +1620,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>panva/jose</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.</div>
@@ -1673,7 +1673,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jnicol/particleground</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A jQuery plugin for snazzy background particle systems</div>
@@ -2748,7 +2748,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Aug 2022, 22:10:17 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 23:09:45 (timezone Europe/Paris) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
