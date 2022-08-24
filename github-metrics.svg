@@ -1574,7 +1574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jorgecasas/php-ml</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PHP Machine Learning library</div>
@@ -1627,7 +1627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DaanDeSmedt/PHPHeadlessChrome</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PHP wrapper for using Google Chrome Headless mode. Convert URL or HTML to a PDF / screenshot. Easy to use and OOP interfaced.</div>
@@ -1680,7 +1680,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rsify/pico</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Take browser screenshots in Javascript  📸</div>
@@ -1733,7 +1733,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thecodingmachine/tdbm</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Database Machine is a PHP ORM that requires no configuration. The object model is deduced from the database model.</div>
@@ -2751,7 +2751,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2022, 05:30:48 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 07:07:27 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
