@@ -1552,7 +1552,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unconed/CSS3D.js</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CSS 3D renderer for Three.js.</div>
@@ -1605,7 +1605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xml3d/xml3d.js</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The WebGL/JS implementation of XML3D</div>
@@ -1658,7 +1658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xml3d/xml3d-examples</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small XML3D examples and demos</div>
@@ -1705,7 +1705,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>visgl/luma.gl</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-performance Toolkit for WebGL-based Data Visualization</div>
@@ -2725,7 +2725,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2022, 23:09:39 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 00:09:10 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
