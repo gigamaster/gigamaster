@@ -1551,7 +1551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidedc/livecodelab</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a web based livecoding environment</div>
@@ -1604,7 +1604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nbriz/StatsNotTracks</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Privacy focused web analytics middleware for express.js</div>
@@ -1657,7 +1657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>taisukef/exif-js</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript library for reading EXIF image metadata</div>
@@ -1710,7 +1710,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tom-Rawlings/BlockCoder</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A block-based JavaScript educational tool.</div>
@@ -2730,7 +2730,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Aug 2022, 23:10:38 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 29 Aug 2022, 00:09:42 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
