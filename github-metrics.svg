@@ -1568,7 +1568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zzanehip/The-OldOS-Project</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Recreating a fully functional version of iOS 4 in SwiftUI.</div>
@@ -1615,7 +1615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>appserver-io/appserver</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multithreaded application server for PHP, written in PHP.</div>
@@ -1668,7 +1668,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/netbeans</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache NetBeans</div>
@@ -2743,7 +2743,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 23:09:52 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 00:10:37 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
