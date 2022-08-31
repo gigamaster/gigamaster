@@ -1568,7 +1568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>appserver-io/appserver</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multithreaded application server for PHP, written in PHP.</div>
@@ -1621,7 +1621,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apache/netbeans</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apache NetBeans</div>
@@ -1727,7 +1727,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nbriz/StatsNotTracks</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Privacy focused web analytics middleware for express.js</div>
@@ -2749,7 +2749,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 18:14:16 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 19:16:46 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
