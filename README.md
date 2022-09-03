@@ -13,8 +13,11 @@
 
 ---
 
-I'm an adult educator and multimedia producer who sees life pretty simply - we try to keep ourselves busy by doing things, some fail, some work, and almost everything we do has an impact on our environment, people and things. 
-Besides the things that give meaning to life, I'm involved in developing tools that facilitate the expression of one's creativity, through art, design, music, learning, cooperation, etc... usually in a very informal way and without a pre-agreed agenda. Serendipity is an unplanned fortunate discovery, a common occurrence throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you found is more suited to your needs than what you thought you were looking for".  
+I'm an adult educator and multimedia producer who sees life pretty simply - we try to keep busy by doing things, some fail, some succeed, and almost everything we do has an impact on our environment and people.  
+
+I am involved in developing tools that facilitate the expression of one's creativity, through art, design, music, learning, cooperation, etc... all things that give meaning to life.  
+
+My contributions are usually very informal and without a pre-agreed agenda. This statement, simply put, means that "Serendipity" is an unintended chance discovery, a common occurrence throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you have found is more suitable for your needs than what you thought you were looking for. 
 
 ![Metrics](/github-metrics.svg)
 
