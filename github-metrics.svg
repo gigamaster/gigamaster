@@ -1551,7 +1551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flossely/tetris</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple Tetris online game.</div>
@@ -1598,7 +1598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flossely/fshistory</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A web version of Microsoft Flight Simulator, introduced with 4 different games of this series.</div>
@@ -1651,7 +1651,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmoenig/Snap</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a visual programming language inspired by Scratch</div>
@@ -1704,7 +1704,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theresnotime/twoops</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Track deleted tweets from public figures</div>
@@ -2727,7 +2727,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Sept 2022, 16:09:55 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 3 Sept 2022, 17:10:48 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
