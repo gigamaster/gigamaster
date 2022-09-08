@@ -1578,7 +1578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stealjs/steal-tools</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build easy. Load fast.</div>
@@ -1631,7 +1631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stealjs/steal</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gets JavaScript</div>
@@ -1684,7 +1684,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mar10/fancytree</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript tree view / tree grid plugin with support for keyboard, inline editing, filtering, checkboxes, drag'n'drop, and lazy loading</div>
@@ -1771,7 +1771,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        670
+                                        671
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2759,7 +2759,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2022, 12:12:13 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 13:09:47 (timezone Europe/Paris) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
