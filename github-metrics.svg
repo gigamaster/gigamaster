@@ -1556,7 +1556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nikic/PHP-Parser</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A PHP parser written in PHP</div>
@@ -1609,7 +1609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>planetscale/vitess</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vitess is a database clustering system for horizontal scaling of MySQL.</div>
@@ -2746,7 +2746,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Sept 2022, 16:09:35 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Sept 2022, 17:10:57 (timezone Europe/Paris) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
