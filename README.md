@@ -13,14 +13,13 @@
 
 ---
 
-I'm an adult educator and multimedia producer who sees life pretty simply - we try to keep busy by doing things, some fail, some succeed, and almost everything we do has an impact on our environment and people.  
+I'm an adult educator and multimedia producer who sees life very simply: we try to stay busy doing things, some fail, others succeed, and almost everything we do has an impact on our environment and on the people.  
 
-I am involved in developing tools that facilitate the expression of one's creativity, through art, design, music, learning, cooperation, etc... all things that give meaning to life.  
+Thus, I have been involved for two decades in research & development projects that facilitate the expression of one's creativity, through art, design, music, learning, cooperation, etc... all things that give meaning to life.  
 
-My contributions are usually very informal and without a pre-agreed agenda. This statement, simply put, means that "Serendipity" is an unintended chance discovery, a common occurrence throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you have found is more suitable for your needs than what you thought you were looking for. 
+My contributions are generally very informal and without a pre-agreed agenda. This statement is the result of empirical evidence, meaning in simple terms that "Serendipity" is an unintentional chance discovery, a common phenomenon throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you found is more suitable to your needs than what you thought you were looking for. 
 
 ![Metrics](/github-metrics.svg)
-
 
 
 ## /////// — Evolution of Technology — Past, Present, and Future
@@ -49,10 +48,10 @@ Philosophical
 
 ### Tech Stack  
 
-Set of technologies used to build a desktop, mobile and web application.  
-**The magic of creative spark** is a mixed spicy combination of imagination and the flexibility of programming languages, frameworks, libraries, patterns, servers, UI/UX solutions, software, and tools.
+**The magic of the creative spark** is a spicy combination of imagination and free choice of programming languages, frameworks, libraries, templates, etc.
 
-Just like cooking, and  daily life flexibility, in general, the flexibility of programming languages refers to the unexpectedly many ways in which utterings in the language can be used. The flexibility in the design of a program, and technology, is offered through source code — modifying a program's source code adapts the program's design.
+The adaptability to everyday life in general and the wide choice of programming languages refer to the many unexpected ways in which the language's instructions can be used.  
+Find the programming language and tools that meet your needs and your projects.
 
 <img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
 
