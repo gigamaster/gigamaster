@@ -40,8 +40,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: public
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
@@ -72,8 +70,6 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
-          plugin_people_sponsors_custom: JetBrains
-          plugin_people_thanks: JetBrains
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 4
