@@ -22,18 +22,9 @@ My contributions are generally very informal and without a pre-agreed agenda. Th
 ![Metrics](/github-metrics.svg)
 
 
-## ////— Evolution of Technology — Past, Present, and Future
+## ////— Evolution of Technology — Past, Present, and Future 
 
-
-
-```
-➜  Nuno Luciano :: gigamaster
-➜  Adult educator, Front end developer 
-➜  UIX designer, Project manager
-➜  20 years of Open Source experience
-
-```    
-
+**The magic of the creative spark** is a spicy combination of imagination and free choice of programming languages, frameworks, libraries, templates, etc. The adaptability to everyday life in general and the wide choice of programming languages refer to the many unexpected ways in which the language's instructions can be used. So, find the programming language and tools that meet your needs and your projects.  
 
 Philosophical
 
@@ -44,21 +35,16 @@ Philosophical
   Turn religious, turn conservative, turn radical.  
   And then forget all about it and find your way to create."
 
+```
+  Nuno Luciano :: gigamaster
+    Adult educator, Front end developer
+    UIX designer, Project manager
+
+```  
 
 
-### Tech Stack  
-
-**The magic of the creative spark** is a spicy combination of imagination and free choice of programming languages, frameworks, libraries, templates, etc. The adaptability to everyday life in general and the wide choice of programming languages refer to the many unexpected ways in which the language's instructions can be used. So, find the programming language and tools that meet your needs and your projects.
 
 <img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
 
-
-
-### Licenses
-
-- CC
-- BSD
-- GPL
-- MIT
 
 
