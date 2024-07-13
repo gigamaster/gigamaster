@@ -71,8 +71,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_reactions: yes
           plugin_reactions_display: absolute
           plugin_reactions_limit: 50
@@ -80,13 +78,12 @@ jobs:
           plugin_reactions_limit_discussions_comments: 50
           plugin_reactions_limit_issues: 50
           plugin_repositories: yes
+          plugin_repositories_featured: gigamaster/codemo, gigamaster/livecodes, gigamaster/infinevo
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 4
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_support: yes
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
           plugin_traffic: yes
