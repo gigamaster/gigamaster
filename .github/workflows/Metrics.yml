@@ -25,7 +25,7 @@ jobs:
           # Options
           template: classic
           config_timezone: Europe/Paris 
-          filename: metrics.plugin.achievements.compact.svg  
+          filename: github-metrics.svg  
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
