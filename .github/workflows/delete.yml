@@ -13,7 +13,7 @@ jobs:
 
       - name: Run Delete Script
         # run: sh ./delete.sh (your org or github name) (your repo name)
-        run: sh ./delete.sh Long18 github-test-action
+        run: sh ./delete.sh gigamaster gigamaster
         working-directory: .github/actions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
