@@ -19,8 +19,11 @@ Thus, I have been involved for two decades in research & development projects th
 
 My contributions are generally very informal and without a pre-agreed agenda. This statement is the result of empirical evidence, meaning in simple terms that "Serendipity" is an unintentional chance discovery, a common phenomenon throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you found is more suitable to your needs than what you thought you were looking for. 
 
+<p align="center">
+    
 ![Metrics](/github-metrics.svg)
 
+</p>
 
 ## ////— Evolution of Technology — Past, Present, and Future 
 
