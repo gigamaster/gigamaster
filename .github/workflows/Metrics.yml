@@ -27,7 +27,7 @@ jobs:
           config_timezone: Europe/Paris 
           filename: github-metrics.svg  
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity
           plugin_achievements: yes
           plugin_achievements_only: >-
            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
