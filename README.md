@@ -44,7 +44,13 @@ Philosophical
     UIX designer, Project manager
 
 ```  
-
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gigamaster/gigamaster/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gigamaster/gigamaster/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gigamaster/gigamaster/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
