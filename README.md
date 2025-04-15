@@ -19,11 +19,21 @@ Thus, I have been involved for two decades in research & development projects th
 
 My contributions are generally very informal and without a pre-agreed agenda. This statement is the result of empirical evidence, meaning in simple terms that "Serendipity" is an unintentional chance discovery, a common phenomenon throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you found is more suitable to your needs than what you thought you were looking for. 
 
-<p align="center">
-    
-![Metrics](/github-metrics.svg)
 
+
+
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gigamaster/gigamaster/refs/heads/master/profile-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gigamaster/gigamaster/refs/heads/master/profile-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gigamaster/gigamaster/refs/heads/master/profile-3d-contrib/day.svg" />
+	</picture>
 </p>
+
+
+<img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
+
+
 
 ## ////— Evolution of Technology — Past, Present, and Future 
 
@@ -44,16 +54,11 @@ Philosophical
     UIX designer, Project manager
 
 ```  
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gigamaster/gigamaster/refs/heads/master/profile-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gigamaster/gigamaster/refs/heads/master/profile-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/gigamaster/gigamaster/refs/heads/master/profile-3d-contrib/day.svg" />
-	</picture>
+
+
+<p align="center">
+	
+![Metrics](/github-metrics.svg)
+
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
-
-
 
