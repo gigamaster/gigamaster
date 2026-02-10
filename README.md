@@ -3,23 +3,62 @@
 
 ## /////////////////////////// — Nuno Luciano [ @gigamaster ]
 
+```
+Earth is My Homeland, Humanity is My family!
+
+       -----------------------------  
+       \\\\\  📐 Gigamaster 🛠 /////
+        ---------------------------  
+
+```
 
 
-    -----------------------------  
-    \\\\\  📐 Gigamaster 🛠 /////
-     ---------------------------  
 
-**Earth is my homeland, humanity is my family!**   
+## Hi, I'm Nuno Luciano aka gigamaster
 
----
+Adult educator × multimedia producer × professional serendipity chaser & digital nomad.
 
-I'm an adult educator and multimedia producer who sees life very simply: we try to stay busy doing things, some fail, others succeed, and almost everything we do has an impact on our environment and on the people.  
+<picture>
+  <img src="https://github.com/gigamaster/proxy-web/blob/27d3bc8f4659dedce63aad1be44eecdc8e71847b/images/4x4.png?raw=true" alt="Overview" style="width:800px; height:24px">
+</picture>
 
-Thus, I have been involved for two decades in research & development projects that facilitate the expression of one's creativity, through art, design, music, learning, cooperation, etc... all things that give meaning to life.  
+Life, to me, is refreshingly simple:  
+We stay busy doing stuff.  
+Some things crash and burn.  
+Some actually work.  
+And almost everything we touch leaves a fingerprint, on people, on places, on the planet.
 
-My contributions are generally very informal and without a pre-agreed agenda. This statement is the result of empirical evidence, meaning in simple terms that "Serendipity" is an unintentional chance discovery, a common phenomenon throughout the history of product invention and scientific discovery: "Look for something, find something else, and realize that what you found is more suitable to your needs than what you thought you were looking for. 
+<picture>
+  <img src="https://github.com/gigamaster/proxy-web/blob/27d3bc8f4659dedce63aad1be44eecdc8e71847b/images/4x4.png?raw=true" alt="Overview" style="width:800px; height:24px">
+</picture>
 
+For the past 20+ years I've been lucky enough to work on research & development projects that help people express their creativity; through art, design, music, learning experiences, collaboration tools, open-source experiments… basically anything that reminds us why being alive is worth the trouble.
 
+My contributions tend to be gloriously agenda-free and delightfully informal. No 5-year roadmap. No investor pitch deck.  
+Just ideas that feel meaningful at 2 a.m. and code that sometimes survives until morning.  
+This approach has a name, backed by centuries of scientific and inventive history: **serendipity**.
+
+<picture>
+  <img src="https://github.com/gigamaster/proxy-web/blob/27d3bc8f4659dedce63aad1be44eecdc8e71847b/images/4x4.png?raw=true" alt="Overview" style="width:800px; height:24px">
+</picture>
+
+> “You look for something, find something else entirely,  
+> and then realise that what you found is actually better than what you were originally searching for.”  
+> — (pretty much every major discovery ever)
+
+<picture>
+  <img src="https://github.com/gigamaster/proxy-web/blob/27d3bc8f4659dedce63aad1be44eecdc8e71847b/images/4x4.png?raw=true" alt="Overview" style="width:800px; height:24px">
+</picture>
+
+So if you're browsing these repos and think “this guy clearly wandered off the path”…  
+you're not wrong. You're just witnessing the path being redrawn in real time.
+
+Welcome to the detour.  
+Feel free to fork, remix, break things, or just wave hello.  
+I'm usually around.
+
+— Nuno  Luciano  
+Earth / 2026
 
 
 <p align="center" >
@@ -30,14 +69,12 @@ My contributions are generally very informal and without a pre-agreed agenda. Th
 	</picture>
 </p>
 
+## ////— The Evolution of Technology — Past, Present, and Future 
 
-<img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
-
-
-
-## ////— Evolution of Technology — Past, Present, and Future 
-
-**The magic of the creative spark** is a spicy combination of imagination and free choice of programming languages, frameworks, libraries, templates, etc. The adaptability to everyday life in general and the wide choice of programming languages refer to the many unexpected ways in which the language's instructions can be used. So, find the programming language and tools that meet your needs and your projects.  
+The true magic of technological evolution lies in the creative spark, that unique blend of imagination and freedom to choose the right programming languages, frameworks, libraries, and tools for each project.
+Programming languages are incredibly adaptable: the same instructions can be combined in countless unexpected ways to solve everyday problems or build entirely new possibilities.
+The key is finding the language and ecosystem that best match your needs, your vision, and the real-world context of your work.
+Choose deliberately. Create freely.
 
 Philosophical
 
@@ -50,15 +87,15 @@ Philosophical
 
 ```
   Nuno Luciano :: gigamaster
-    Adult educator, Front end developer
-    UIX designer, Project manager
+  Adult educator, multimedia producer
+  Professional serendipity chaser & digital nomad.
 
 ```  
 
 
-<p align="center">
-	
-![Metrics](/github-metrics.svg)
+<img src="https://user-images.githubusercontent.com/1905497/172074154-bbb0d74b-5523-4f24-aadf-12cb50047472.svg" with="1em" height="1em">
 
-</p>
+
+
+
 
